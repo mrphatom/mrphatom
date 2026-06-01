@@ -19,7 +19,8 @@ I am a **Computer Science**, **Web3 developer**, and **AI Trainer/Evaluator**. I
 
 ### 📬 Connect With Me
 - **X (Twitter):** [@iamPhatom_](https://x.com/iamPhatom_)
-- **LinkedIn:** [Godtime Benson](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG_HERE)
+- **LinkedIn:** [Godtime Benson](https://www.linkedin.com/in/godtime-benson-3b6950210)
 - **Discord:** `iamphatom`
 - **Telegram:** [@iamphatom](https://t.me/iamphatom)
+- **Portfolio:** [mrphatom](https://mrphatom.is-a.dev)
 
