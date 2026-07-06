@@ -32,6 +32,7 @@ I specialize in shipping polished, real-world products fast — client sites, Sa
 ## 🛠️ Tech Stack
 
 **Front-End**
+![Next.Js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&utm_source=perplexity)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -40,6 +41,7 @@ I specialize in shipping polished, real-world products fast — client sites, Sa
 **Back-End / Infra**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=white&utm_source=perplexity)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 **Blockchain / Web3**
@@ -47,6 +49,7 @@ I specialize in shipping polished, real-world products fast — client sites, Sa
 
 **AI / Automation**
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-555?style=for-the-badge&logo=claude&logoColor=white&utm_source=perplexity)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 ![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
