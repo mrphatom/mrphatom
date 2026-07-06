@@ -16,16 +16,16 @@ Building fast, production-grade web apps and Web3 tools — from client-facing s
 
 ## 👋 About
 
-I'm a Computer Science student and freelance developer from Port Harcourt, Nigeria, with hands-on experience across **front-end engineering, blockchain/Web3 development, data platform engineering, and Web3 community moderation**.
+I'm a Computer Science student and freelance developer, with hands-on experience across **front-end engineering, blockchain/Web3 development, data platform engineering, and Web3 community moderation**.
 
 I specialize in shipping polished, real-world products fast — client sites, SaaS tools, Telegram bots, and Solana-based systems — usually solo, end-to-end: design → build → deploy → ship.
 
 - 🎓 Studying Computer Science at Rivers State University (RSU), Nigeria
-- 💻 Freelance Web Developer — landing pages, portfolio sites, and custom demo builds for client outreach
-- ⛓️ Blockchain Engineer — Solana ecosystem (grants, bounty/gig platforms, on-chain payment integrations)
+- 💻 Freelance Web Developer — landing pages, portfolio sites, and custom builds for client outreach
+- ⛓️ Blockchain Engineer — Solana ecosystem (smart contracts, grants, bounty/gig platforms, on-chain payment integrations), Solidity Engineer(cross-chain tools, smart contracts, dApps Development)
 - 🛡️ Former Web3 Community Moderator
 - 📊 Prior experience in data platform engineering
-- 🤖 Heavy user of AI-assisted, multi-tool development workflows (Claude, Gemini, Groq, Cursor)
+- 🤖 Heavy user of AI-assisted, multi-tool development workflows (Claude, Gemini, Manus, Cursor)
 
 ---
 
@@ -57,9 +57,9 @@ I specialize in shipping polished, real-world products fast — client sites, Sa
 | Project | Description | Stack |
 |---|---|---|
 | **[LeadsRadar](https://github.com/mrphatom/LeadsRadar)** | CRM SaaS built for freelancers — lead tracking, AI-assisted outreach, and integrated payments | React, Vite, Firebase, Gemini AI, Paystack |
-| **AskZen** | Monetized AI assistant Telegram bot with freemium access via Telegram Stars | Python, Groq/Llama, Railway |
-| **TaskFarmer** | Crypto task-farming Telegram bot with integrated crypto payments | Python, CryptoPay, Render |
-| **SolCrewAI** | Multi-agent AI system (CrewAI) deployable and controllable via Telegram | Python, CrewAI, Solana |
+| **[Mappers_Contract](https://github.com/mrphatom/mappers_contract)** | A Dual-System AI validation SDK for on-chain Solana payments on gigs, bounties and more | SDK, Claude, Solana |
+| **[TaskFarmer](https://github.com/mrphatom/TaskFarmer)** | Crypto task-farming Telegram bot with integrated crypto payments | Python, CryptoPay, Render |
+| **[Reactive Sentinel](https://github.com/mrphatom/reactive-sentinel)** | A cross-chain, event-driven security system that detects dangerous on-chain events and automatically issues low-latency freeze callbacks via the Reactive Network. It combines Solidity contracts (Hardhat) that run on multiple EVM testnets with a Vite + React TypeScript dashboard and workspace libraries that support deployment, an API server, and tooling for simulation and debugging. | Solidity, Security Tool, Reactive |
 | **[This Portfolio](https://mrphatom.is-a.dev)** | My personal site — dual-theme, animated, fully responsive developer portfolio | React, TypeScript, Tailwind, Motion |
 
 > More on [github.com/mrphatom](https://github.com/mrphatom)
