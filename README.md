@@ -46,6 +46,10 @@ I specialize in shipping polished, real-world products fast — client sites, Sa
 
 **Blockchain / Web3**
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636?style=for-the-badge&logo=solidity&logoColor=white)
+![dApps](https://img.shields.io/badge/dApps-000000?style=for-the-badge)
+![ETH](https://img.shields.io/badge/ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![BNB](https://img.shields.io/badge/BNB-F3BA2F?style=for-the-badge&logo=binance&logoColor=white)
 
 **AI / Automation**
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
