@@ -64,7 +64,7 @@ I specialize in shipping polished, real-world products fast — client sites, Sa
 | Project | Description | Stack |
 |---|---|---|
 | **[LeadsRadar](https://github.com/mrphatom/LeadsRadar)** | CRM SaaS built for freelancers — lead tracking, AI-assisted outreach, and integrated payments | React, Vite, Firebase, Gemini AI, Paystack |
-| **[Mappers_Contract](https://github.com/mrphatom/mappers_contract)** | A Dual-System AI validation SDK for on-chain Solana payments on gigs, bounties and more | SDK, Claude, Solana |
+| **[Mappers_Contract](https://github.com/mrphatom/mappers_contract)** | Decentralized freelance escrow on Solana. AI oracle verifies deliverables via dual-model consensus (Gemini + Claude) and settles payments autonomously on-chain. No platform fees. No middlemen. MIT licensed. | SDK, Escrow, Solana, Smart Contract |
 | **[TaskFarmer](https://github.com/mrphatom/TaskFarmer)** | Crypto task-farming Telegram bot with integrated crypto payments | Python, CryptoPay, Render |
 | **[Reactive Sentinel](https://github.com/mrphatom/reactive-sentinel)** | A cross-chain, event-driven security system that detects dangerous on-chain events and automatically issues low-latency freeze callbacks via the Reactive Network. It combines Solidity contracts (Hardhat) that run on multiple EVM testnets with a Vite + React TypeScript dashboard and workspace libraries that support deployment, an API server, and tooling for simulation and debugging. | Solidity, Security Tool, Reactive |
 | **[This Portfolio](https://mrphatom.is-a.dev)** | My personal site — dual-theme, animated, fully responsive developer portfolio | React, TypeScript, Tailwind, Motion |
