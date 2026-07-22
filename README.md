@@ -135,6 +135,7 @@ const Godtime: Developer = {
 ### 📝 Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Low-Latency Escrow Protocols on Solana: What I Learned Building On-Chain](https://medium.com/@mrphatom/building-low-latency-escrow-protocols-on-solana-what-i-learned-building-on-chain-df851b9dcd83?source=rss-e3867e77f3c8------2)
 <!-- BLOG-POST-LIST:END -->
 
 
