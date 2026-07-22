@@ -38,7 +38,7 @@ const Godtime: Developer = {
     automating: "Mobile multi-agent AI setups"
   },
   workflow: () => {
-    return "Manus builds it, Gemini builds it, Claude builds it. I review and ship it solo.";
+    return "Manus runs it, Gemini maps it, Claude builds it. I review and ship it solo.";
   }
 };
 ```
@@ -58,7 +58,7 @@ const Godtime: Developer = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### 🚀 Deployed Architecture (Live Presentation)
+### 🚀 Deployed Architecture
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -85,7 +85,7 @@ const Godtime: Developer = {
 ### 🕹️ Interactive Hub & Stats
 
 <div align="center">
-  <p><strong>Random Dev Joke Generator</strong></p>
+  <p><strong>Random Dev Joke</strong></p>
   <a href="https://github.com/mrphatom">
     <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
   </a>
