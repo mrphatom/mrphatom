@@ -34,7 +34,7 @@ const Godtime: Developer = {
   status: "B.Sc. Computer Science @ RSU",
   roles: ["Full-Stack Engineer", "Solana Dev"],
   current_focus: {
-    building: ["Mappers_Contract", "Reactive Sentinel", "LeadsRadar"],
+    building: ["Mappers_Contract", "Reactive Sentinel", "LeadsRadar", "Anchr"],
     automating: "Mobile multi-agent AI setups"
   },
   workflow: () => {
@@ -62,7 +62,7 @@ const Godtime: Developer = {
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&color=14F195&center=true&width=800&height=50&lines=MAPPERS_CONTRACT+%3E%3E+Escrow+%2B+AI;REACTIVE_SENTINEL+%3E%3E+Security;LEADSRADAR+%3E%3E+AI+B2B+CRM;ASKZEN+%3E%3E+Crypto+Bots" alt="Presentation Slides" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&color=14F195&center=true&width=800&height=50&lines=MAPPERS_CONTRACT+%3E%3E+Escrow+%2B+AI;REACTIVE_SENTINEL+%3E%3E+Security;LEADSRADAR+%3E%3E+AI+B2B+CRM;ANCHR+%3E%3E+CLI+%2B+IPFS" alt="Presentation Slides" />
   </a>
 </p>
 
@@ -75,8 +75,8 @@ const Godtime: Developer = {
 *   🎯 **[LeadsRadar](https://github.com/mrphatom/LeadsRadar)**
     AI-driven B2B CRM SaaS built for freelancers. 
 
-*   🤖 **[AskZen](https://github.com/mrphatom)** & 🌾 **[TaskFarmer](https://github.com/mrphatom/TaskFarmer)**
-    Autonomous Telegram bots integrated with high-speed API limits (Groq).
+*   ⚓ **[Anchr](https://github.com/mrphatom)**
+    CLI tool built to handle IPFS pinning logic and Name Service record-write integrations.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -100,19 +100,19 @@ const Godtime: Developer = {
 <br/>
 
 <p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=mrphatom&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=29" width="98%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrphatom&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=29" alt="Activity Graph" />
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=mrphatom&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=30" width="98%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrphatom&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=30" alt="Activity Graph" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrphatom&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&v=29" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mrphatom&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&v=30" alt="trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mrphatom&theme=dark&hide_border=true&v=29" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=mrphatom&theme=dark&hide_border=true&v=30" width="97%" />
 </p>
 
 <div align="center">
@@ -123,8 +123,8 @@ const Godtime: Developer = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrphatom/mrphatom-test/output/github-contribution-grid-snake-dark.svg?v=21">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrphatom/mrphatom-test/output/github-contribution-grid-snake.svg?v=21">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrphatom/mrphatom-test/output/github-contribution-grid-snake-dark.svg?v=22">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrphatom/mrphatom-test/output/github-contribution-grid-snake.svg?v=22">
   </picture>
 </div>
 
