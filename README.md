@@ -92,11 +92,6 @@ const Godtime: Developer = {
   <br/><br/>
   
   <p><strong>Activity & Arsenal</strong></p>
-  <!-- Added Solana Badge alongside skill icons -->
-  <a href="https://solana.com">
-    <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana" />
-  </a>
-  <br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,py,rust,solidity,react,nextjs,tailwind,vite,nodejs,firebase,postgres,docker&perline=6" alt="Skills" />
   </a>
@@ -105,29 +100,20 @@ const Godtime: Developer = {
 <br/>
 
 <p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=mrphatom&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=31" width="98%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrphatom&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=31" alt="Activity Graph" />
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=mrphatom&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=30" width="98%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrphatom&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=30" alt="Activity Graph" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrphatom&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&v=31" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mrphatom&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&v=30" alt="trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mrphatom&theme=dark&hide_border=true&v=31" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=mrphatom&theme=dark&hide_border=true&v=30" width="97%" />
 </p>
-
-<!-- Optional: WakaTime Stats (Uncomment if you set up WakaTime) -->
-<!--
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrphatom&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-  </a>
-</p>
--->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -137,8 +123,8 @@ const Godtime: Developer = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrphatom/mrphatom-test/output/github-contribution-grid-snake-dark.svg?v=23">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrphatom/mrphatom-test/output/github-contribution-grid-snake.svg?v=23">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrphatom/mrphatom-test/output/github-contribution-grid-snake-dark.svg?v=22">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mrphatom/mrphatom-test/output/github-contribution-grid-snake.svg?v=22">
   </picture>
 </div>
 
@@ -165,10 +151,10 @@ const Godtime: Developer = {
 ### 👾 mew mew mew
 
 <div align="center">
-  <!-- Dynamic Quote Generator -->
-  <a href="https://github.com/mrphatom">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=tokyonight&border=false" alt="Daily Quote" />
-  </a>
-  <br/><br/>
+  <blockquote>
+    <em>"See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard."</em><br/>
+    <strong>— Linus Torvalds</strong>
+  </blockquote>
+  <br/>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="Hacker Cat" />
 </div>
