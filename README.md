@@ -7,7 +7,7 @@
 
   <!-- Name -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=2200&color=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Godtime+Benson;a.k.a.+mrphatom" alt="Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=2200&color=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Godtime+Benson;+mrphatom" alt="Name" />
   </a>
 
   <p align="center">
