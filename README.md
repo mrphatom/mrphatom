@@ -7,7 +7,7 @@
 
   <!-- Name -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=2200&color=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Godtime+Benson;+mrphatom" alt="Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=2200&color=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Godtime+Benson;mrphatom" alt="Name" />
   </a>
 
   <p align="center">
@@ -16,12 +16,15 @@
     </a>
   </p>
 
-  <!-- Badges Row -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/status-shipping-14F195?style=flat-square" />
-    <img src="https://img.shields.io/badge/team_size-1-14F195?style=flat-square" />
-    <img src="https://img.shields.io/badge/stack-solana%20%7C%20react%20%7C%20ai-14F195?style=flat-square" />
-  </p>
+</div>
+
+```bash
+$ status        shipping
+$ team_size     1
+$ stack         solana · react · ai-augmented
+```
+
+<div align="center">
 
   <!-- Profile Views -->
   <a href="https://github.com/mrphatom">
