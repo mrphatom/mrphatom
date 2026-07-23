@@ -1,24 +1,33 @@
 <div align="center">
-  <!-- Retro Gaming / Terminal Boot Banner (Bulletproof SVG) -->
+
+  <!-- Terminal Boot Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=14F195&center=true&vCenter=true&width=800&height=100&lines=PRESS+START...;SELECT+CHARACTER:+GODTIME;LOADING+WEB3+SORCERY...;WELCOME+TO+THE+MAIN_FRAME" alt="Game Boot Sequence" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=14F195&center=true&vCenter=true&width=800&height=90&lines=%24+whoami;godtime+%E2%80%94+full-stack+%2B+solana+dev;%24+status+--check;online.+shipping.+solo." alt="Terminal Boot Sequence" />
   </a>
 
-  <!-- Animated Alternating Name -->
+  <!-- Name -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=Godtime+Benson;Lvl+99+Web3+Sorcerer" alt="Animated Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=2200&color=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Godtime+Benson;a.k.a.+mrphatom" alt="Name" />
   </a>
-  
+
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&color=14F195&center=true&width=500&lines=Full-Stack+Web3+Developer;Studying+Computer+Science+@+RSU;Shipping+Polished+Products+Fast" alt="Typing Subtitle" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&color=14F195&center=true&width=560&lines=Full-Stack+%2B+Web3+Developer;B.Sc.+Computer+Science+%40+RSU;One+dev%2C+an+AI+toolchain%2C+production-ready+code" alt="Typing Subtitle" />
     </a>
   </p>
-  
+
+  <!-- Badges Row -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/status-shipping-14F195?style=flat-square" />
+    <img src="https://img.shields.io/badge/team_size-1-14F195?style=flat-square" />
+    <img src="https://img.shields.io/badge/stack-solana%20%7C%20react%20%7C%20ai-14F195?style=flat-square" />
+  </p>
+
   <!-- Profile Views -->
   <a href="https://github.com/mrphatom">
-    <img src="https://komarev.com/ghpvc/?username=mrphatom&label=LEVEL+XP+%2F+VIEWS&color=14F195&style=flat" alt="XP Count" />
+    <img src="https://komarev.com/ghpvc/?username=mrphatom&label=PROFILE+VIEWS&color=14F195&style=flat" alt="Profile Views" />
   </a>
+
 </div>
 
 <div align="center">
@@ -34,7 +43,8 @@ const Godtime: Developer = {
   status: "B.Sc. Computer Science @ RSU",
   roles: ["Full-Stack Engineer", "Solana Dev"],
   current_focus: {
-    building: ["Mappers_Contract", "Reactive Sentinel", "LeadsRadar", "Anchr"],
+    building: ["Archemist", "mappers_contract", "tabpilot-", "reactive-sentinel", "Anchr", "LeadsRadar"],
+    experimenting: ["PyMini — a language interpreter, just for the sport of it"],
     automating: "Mobile multi-agent AI setups"
   },
   workflow: () => {
@@ -48,10 +58,11 @@ const Godtime: Developer = {
 <details>
   <summary><b>👨‍💻 Behind the Terminal (Click to expand)</b></summary>
   <br/>
-  
+
   * 🌐 **Freelance Dev:** I build landing pages, portfolio sites, and custom applications.
   * ⚙️ **Data & Security:** Prior experience in data platform engineering and Web3 moderation.
   * 🛡️ **Web3 Architecture:** Specializing in the Solana ecosystem and EVM cross-chain tools.
+  * 🤖 **AI-Augmented Solo Dev:** Every project below is built end-to-end by one person, using an AI toolset as a collaborative team instead of a human one.
 </details>
 
 <div align="center">
@@ -62,27 +73,58 @@ const Godtime: Developer = {
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&color=14F195&center=true&width=800&height=50&lines=MAPPERS_CONTRACT+%3E%3E+Escrow+%2B+AI;REACTIVE_SENTINEL+%3E%3E+Security;LEADSRADAR+%3E%3E+AI+B2B+CRM;ANCHR+%3E%3E+CLI+%2B+IPFS" alt="Presentation Slides" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&color=14F195&center=true&width=800&height=50&lines=ARCHEMIST+%3E%3E+Web3+Commerce+%2B+Solana+Pay;MAPPERS_CONTRACT+%3E%3E+Escrow+%2B+AI+Oracle;TABPILOT+%3E%3E+AI+Browser+Agent;REACTIVE_SENTINEL+%3E%3E+Cross-Chain+Security;ANCHR+%3E%3E+CLI+%2B+IPFS+%2B+SNS;LEADSRADAR+%3E%3E+AI+B2B+CRM" alt="Presentation Slides" />
   </a>
 </p>
 
-*   🗺️ **[Mappers_Contract](https://github.com/mrphatom/mappers_contract)**
-    Decentralized freelance escrow on Solana. AI oracle verifies deliverables.
+*   🧪 **[Archemist](https://github.com/mrphatom/Archemist)**
+    Production-ready Web3 e-commerce template — Solana payments, glassmorphism UI, aurora shaders, headless Sanity CMS.
 
-*   🛡️ **[Reactive Sentinel](https://github.com/mrphatom/reactive-sentinel)**
-    Cross-chain security system detecting dangerous on-chain events.
+*   🗺️ **[mappers_contract](https://github.com/mrphatom/mappers_contract)**
+    Decentralized freelance escrow on Solana. Dual-model (Gemini + Claude) AI oracle verifies deliverables before releasing payment.
+
+*   🧭 **[tabpilot-](https://github.com/mrphatom/tabpilot-)**
+    AI browser automation agent for Chrome. Natural-language tasks → navigates, clicks, extracts data in a sandboxed tab.
+
+*   ⚓ **[Anchr](https://github.com/mrphatom/Anchr)**
+    "Vercel for Solana" — CLI that deploys static frontends to IPFS, resolved via SNS `.sol` domains.
 
 *   🎯 **[LeadsRadar](https://github.com/mrphatom/LeadsRadar)**
-    AI-driven B2B CRM SaaS built for freelancers. 
+    AI-driven B2B CRM SaaS built for freelancers.
 
-*   ⚓ **[Anchr](https://github.com/mrphatom)**
-    CLI tool built to handle IPFS pinning logic and Name Service record-write integrations.
+*   🛡️ **[reactive-sentinel](https://github.com/mrphatom/reactive-sentinel)**
+    Cross-chain security state machine on Reactive Network — monitors contract events on Ethereum Sepolia in real time and auto-triggers emergency mitigation callbacks on Base Sepolia within seconds.
+
+*   🧬 **[PyMini](https://github.com/mrphatom/PyMini)**
+    A lightweight interpreted language, written from scratch in Python — lexer, parser, tree-walk evaluator, the works.
+
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-### 🕹️ Interactive Hub & Stats
+### 🏆 Shipped, Not Just Started
+
+<div align="center">
+
+| Feat | Status |
+|---|---|
+| 🧙 Shipped a full Anchor escrow program solo | ✅ Unlocked |
+| 🎨 Built a Web3 commerce template with custom shaders | ✅ Unlocked |
+| 🧠 Wrote a dual-AI consensus oracle for on-chain verification | ✅ Unlocked |
+| 🌐 Built a CLI that deploys to IPFS + resolves `.sol` domains | ✅ Unlocked |
+| 🛡️ Shipped a cross-chain reactive security system (sub-second exploit response) | ✅ Unlocked |
+| 🕹️ Built a language interpreter from scratch, for fun | ✅ Unlocked |
+| 🤖 Ran an AI agent team (Claude + Gemini + Manus + Cursor) as a one-man studio | ✅ Ongoing |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+### 📊 Stats & Miscellany
 
 <div align="center">
   <p><strong>Random Dev Joke</strong></p>
@@ -90,7 +132,7 @@ const Godtime: Developer = {
     <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
   </a>
   <br/><br/>
-  
+
   <p><strong>Activity & Arsenal</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,py,rust,solidity,react,nextjs,tailwind,vite,nodejs,firebase,postgres,docker&perline=6" alt="Skills" />
@@ -100,19 +142,19 @@ const Godtime: Developer = {
 <br/>
 
 <p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=mrphatom&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=30" width="98%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrphatom&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=30" alt="Activity Graph" />
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=mrphatom&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=31" width="98%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrphatom&bg_color=0D1117&color=14F195&line=14F195&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=31" alt="Activity Graph" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrphatom&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&v=30" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mrphatom&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&v=31" alt="trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mrphatom&theme=dark&hide_border=true&v=30" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=mrphatom&theme=dark&hide_border=true&v=31" width="97%" />
 </p>
 
 <div align="center">
@@ -138,7 +180,6 @@ const Godtime: Developer = {
 - [Mastering CPIs on Solana: Calling Other Programs Without Losing Your Mind](https://medium.com/@mrphatom/mastering-cpis-on-solana-calling-other-programs-without-losing-your-mind-bc60fab7dd60?source=rss-e3867e77f3c8------2)
 - [Building Low-Latency Escrow Protocols on Solana: What I Learned Building On-Chain](https://medium.com/@mrphatom/building-low-latency-escrow-protocols-on-solana-what-i-learned-building-on-chain-df851b9dcd83?source=rss-e3867e77f3c8------2)
 <!-- BLOG-POST-LIST:END -->
-
 
 ### 🎧 Now Playing & Comms
 
