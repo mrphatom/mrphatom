@@ -180,6 +180,7 @@ const Godtime: Developer = {
 ### 📝 Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Indexing Solana State: Why You Need Helius Webhooks Instead of Polling](https://medium.com/@mrphatom/indexing-solana-state-why-you-need-helius-webhooks-instead-of-polling-2c306b23e135?source=rss-e3867e77f3c8------2)
 - [Fast Solana Testing: Moving Beyond ⁠solana-test-validator⁠ with Bankrun](https://medium.com/@mrphatom/fast-solana-testing-moving-beyond-solana-test-validator-with-bankrun-f33023c68e95?source=rss-e3867e77f3c8------2)
 - [Mastering CPIs on Solana: Calling Other Programs Without Losing Your Mind](https://coinsbench.com/mastering-cpis-on-solana-calling-other-programs-without-losing-your-mind-bc60fab7dd60?source=rss-e3867e77f3c8------2)
 - [Building Low-Latency Escrow Protocols on Solana: What I Learned Building On-Chain](https://medium.com/@mrphatom/building-low-latency-escrow-protocols-on-solana-what-i-learned-building-on-chain-df851b9dcd83?source=rss-e3867e77f3c8------2)
