@@ -56,6 +56,12 @@ const Godtime: Developer = {
 };
 ```
 
+<div align="center">
+  <img src="https://img.shields.io/badge/status-shipping-14F195?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/team_size-1-14F195?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/stack-solana%20·%20react%20·%20ai--augmented-14F195?style=for-the-badge&labelColor=0D1117" />
+</div>
+
 <br/>
 
 <details>
@@ -67,10 +73,6 @@ const Godtime: Developer = {
   * 🛡️ **Web3 Architecture:** Specializing in the Solana ecosystem and EVM cross-chain tools.
   * 🤖 **AI-Augmented Solo Dev:** Every project below is built end-to-end by one person, using an AI toolset as a collaborative team instead of a human one.
 </details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
 
 ### 🚀 Deployed Architecture
 
@@ -107,6 +109,14 @@ const Godtime: Developer = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
+### 🔭 Currently Exploring
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1500&color=14F195&center=true&vCenter=true&width=780&height=40&lines=cloning+worm.wtf's+core+loop+as+a+build-mode+demo;weighing+license+vs.+sell+on+mappers_protocol;RSU+finals%3A+PHY102+%2F+PHY108+%2F+CSC104+hardware" alt="Currently Exploring Ticker" />
+  </a>
+</p>
+
 ### 🏆 Shipped, Not Just Started
 
 <div align="center">
@@ -123,11 +133,14 @@ const Godtime: Developer = {
 
 </div>
 
+### 📊 Stats & Miscellany
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mrphatom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=14F195&icon_color=14F195&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrphatom&layout=compact&hide_border=true&bg_color=0D1117&title_color=14F195&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
-### 📊 Stats & Miscellany
+<br/>
 
 <div align="center">
   <p><strong>Random Dev Joke</strong></p>
