@@ -56,12 +56,6 @@ const Godtime: Developer = {
 };
 ```
 
-<div align="center">
-  <img src="https://img.shields.io/badge/status-shipping-14F195?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/team_size-1-14F195?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/stack-solana%20·%20react%20·%20ai--augmented-14F195?style=for-the-badge&labelColor=0D1117" />
-</div>
-
 <br/>
 
 <details>
