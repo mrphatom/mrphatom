@@ -83,6 +83,8 @@ const Godtime = {
 
 ## Stats
 
+<!-- The local SVG cards below are refreshed daily by .github/workflows/update-profile-stats.yml. -->
+
 <p align="center">
   <img src="./assets/profile-stats.svg" width="100%" alt="Public GitHub profile snapshot: 42 repositories, 5 followers, 8 following" />
 </p>
