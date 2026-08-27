@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250" role="img" aria-labelledby="title desc">
+  <title id="title">Public repository language mix</title>
+  <desc id="desc">TypeScript 60.5 percent, Python 26.9 percent, HTML 5.7 percent, JavaScript 2.9 percent, CSS 1.9 percent, and Rust 1.4 percent by bytes.</desc>
+  <rect width="760" height="250" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="758" height="4" rx="2" fill="#4cc9f0"/>
+  <text x="28" y="38" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">LANGUAGE MIX</text>
+  <text x="28" y="61" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="12">Public repositories · measured by code bytes</text>
+  <g transform="translate(28 83)">
+    <rect width="704" height="14" rx="7" fill="#21262d"/>
+    <rect width="426" height="14" rx="7" fill="#3178c6"/>
+    <rect x="426" width="189" height="14" fill="#3776ab"/>
+    <rect x="615" width="40" height="14" fill="#e34c26"/>
+    <rect x="655" width="20" height="14" fill="#f1e05a"/>
+    <rect x="675" width="14" height="14" fill="#563d7c"/>
+    <rect x="689" width="10" height="14" rx="0 7 7 0" fill="#dea584"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12">
+    <circle cx="36" cy="130" r="5" fill="#3178c6"/><text x="50" y="134" fill="#c9d1d9">TypeScript</text><text x="170" y="134" fill="#14f195">60.5%</text>
+    <circle cx="270" cy="130" r="5" fill="#3776ab"/><text x="284" y="134" fill="#c9d1d9">Python</text><text x="386" y="134" fill="#14f195">26.9%</text>
+    <circle cx="492" cy="130" r="5" fill="#e34c26"/><text x="506" y="134" fill="#c9d1d9">HTML</text><text x="580" y="134" fill="#14f195">5.7%</text>
+    <circle cx="36" cy="166" r="5" fill="#f1e05a"/><text x="50" y="170" fill="#c9d1d9">JavaScript</text><text x="170" y="170" fill="#14f195">2.9%</text>
+    <circle cx="270" cy="166" r="5" fill="#563d7c"/><text x="284" y="170" fill="#c9d1d9">CSS</text><text x="386" y="170" fill="#14f195">1.9%</text>
+    <circle cx="492" cy="166" r="5" fill="#dea584"/><text x="506" y="170" fill="#c9d1d9">Rust</text><text x="580" y="170" fill="#14f195">1.4%</text>
+  </g>
+  <line x1="28" y1="198" x2="732" y2="198" stroke="#21262d"/>
+  <text x="28" y="222" fill="#6e7681" font-family="Arial, Helvetica, sans-serif" font-size="11">OTHER LANGUAGES: C# · DOCKERFILE · SOLIDITY · SHELL · MAKEFILE</text>
+</svg>

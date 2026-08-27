@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="190" viewBox="0 0 760 190" role="img" aria-labelledby="title desc">
+  <title id="title">Public GitHub profile snapshot</title>
+  <desc id="desc">42 public repositories, 5 followers, and 8 following.</desc>
+  <rect width="760" height="190" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="758" height="4" rx="2" fill="#14f195"/>
+  <text x="28" y="38" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">PUBLIC PROFILE / SNAPSHOT</text>
+  <text x="28" y="61" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="12">GitHub-visible activity, kept local for reliable rendering</text>
+  <line x1="28" y1="79" x2="732" y2="79" stroke="#21262d"/>
+  <g transform="translate(28 104)">
+    <text fill="#14f195" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="800">42</text>
+    <text y="25" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="12">PUBLIC REPOS</text>
+  </g>
+  <g transform="translate(285 104)">
+    <text fill="#4cc9f0" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="800">5</text>
+    <text y="25" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="12">FOLLOWERS</text>
+  </g>
+  <g transform="translate(520 104)">
+    <text fill="#a78bfa" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="800">8</text>
+    <text y="25" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="12">FOLLOWING</text>
+  </g>
+  <text x="28" y="168" fill="#6e7681" font-family="Arial, Helvetica, sans-serif" font-size="11">SCOPE: PUBLIC PROFILE DATA · SOURCE: github.com/mrphatom</text>
+</svg>
