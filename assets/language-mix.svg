@@ -7,15 +7,15 @@
 <text x="28" y="61" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">Public repositories · measured by code bytes · refreshed daily</text>
 <rect x="28" y="83" width="704" height="14" rx="7" fill="#21262d"/>
 <rect x="28" y="83" width="421" height="14" rx="7" fill="#3178c6"/>
-<rect x="449" y="83" width="200" height="14" rx="0" fill="#3776ab"/>
-<rect x="649" y="83" width="37" height="14" rx="0" fill="#e34c26"/>
-<rect x="686" y="83" width="20" height="14" rx="0" fill="#f1e05a"/>
-<rect x="706" y="83" width="13" height="14" rx="0" fill="#563d7c"/>
-<rect x="719" y="83" width="9" height="14" rx="0" fill="#dea584"/>
-<rect x="728" y="83" width="4" height="14" rx="7" fill="#6e7681"/>
+<rect x="449" y="83" width="201" height="14" rx="0" fill="#3776ab"/>
+<rect x="650" y="83" width="37" height="14" rx="0" fill="#e34c26"/>
+<rect x="687" y="83" width="20" height="14" rx="0" fill="#f1e05a"/>
+<rect x="707" y="83" width="13" height="14" rx="0" fill="#563d7c"/>
+<rect x="720" y="83" width="9" height="14" rx="0" fill="#dea584"/>
+<rect x="729" y="83" width="3" height="14" rx="7" fill="#6e7681"/>
 <circle cx="36" cy="126" r="5" fill="#3178c6"/>
 <text x="50" y="130" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">TypeScript</text>
-<text x="170" y="130" fill="#14f195" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">59.8%</text>
+<text x="170" y="130" fill="#14f195" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">59.7%</text>
 <circle cx="270" cy="126" r="5" fill="#3776ab"/>
 <text x="284" y="130" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">Python</text>
 <text x="386" y="130" fill="#14f195" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">28.5%</text>
